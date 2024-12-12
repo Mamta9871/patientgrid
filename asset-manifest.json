@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/patientgrid/static/css/main.9d85b086.css",
+    "main.js": "/patientgrid/static/js/main.c7384eff.js",
+    "static/js/453.0e3bff4a.chunk.js": "/patientgrid/static/js/453.0e3bff4a.chunk.js",
+    "static/media/Banner.png": "/patientgrid/static/media/Banner.798e3dbbabc696897d28.png",
+    "static/media/Msg.png": "/patientgrid/static/media/Msg.6a9947498edc39c98069.png",
+    "static/media/Inbox.png": "/patientgrid/static/media/Inbox.f082582802fb034721cf.png",
+    "static/media/Ratings.png": "/patientgrid/static/media/Ratings.a0414e239cb5bd21d7ca.png",
+    "static/media/Chart.png": "/patientgrid/static/media/Chart.bd5d8fd9373b3c639c2d.png",
+    "index.html": "/patientgrid/index.html",
+    "main.9d85b086.css.map": "/patientgrid/static/css/main.9d85b086.css.map",
+    "main.c7384eff.js.map": "/patientgrid/static/js/main.c7384eff.js.map",
+    "453.0e3bff4a.chunk.js.map": "/patientgrid/static/js/453.0e3bff4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d85b086.css",
+    "static/js/main.c7384eff.js"
+  ]
+}
